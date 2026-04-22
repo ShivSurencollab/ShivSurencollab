@@ -4,7 +4,7 @@
 🤔 I’m looking for help with oppertunities 
 📫 How to reach me: shivanisurendrakumar@gmail.com
 😄 Pronouns: she/her/hers
--->
+
 <!--
 **ShivSurencollab/ShivSurencollab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
