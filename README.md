@@ -4,7 +4,6 @@
 🤔 I’m looking for help with oppertunities 
 📫 How to reach me: shivanisurendrakumar@gmail.com
 😄 Pronouns: she/her/hers
-⚡ Fun fact: I taught myself to code and built my first app in 30 days
 -->
 <!--
 **ShivSurencollab/ShivSurencollab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
